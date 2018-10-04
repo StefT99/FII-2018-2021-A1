@@ -1,0 +1,54 @@
+body {
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+div.abstract {
+    background:#F9F9F9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: none;
+}
+
+p {
+    font-size: 16pt;
+}
+
+li {
+    font-size: 16pt;
+}
+
+br.clear {
+    clear: both;
+}
+
+img.ontheleft {
+    float: left;
+    margin-right: 10px;
+    clear: both;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+#contact
+{
+    background:#F9F9F9;
+    float:right;
+    width:290px;
+    padding:20px;
+    margin:20px;
+}
